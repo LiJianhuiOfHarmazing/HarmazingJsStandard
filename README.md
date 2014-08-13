@@ -1,4 +1,4 @@
-HarmazingJsStandard
-===================
 和美JavaScript规范
+===================
+# 一级标题
 
